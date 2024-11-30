@@ -1,4 +1,4 @@
-;This is LAB 03 - Program 3 (Post-Indexed Addressing with Unaligned Access)
+;This is LAB 03 - Program 4 (Post-Indexed Addressing with Unaligned Access)
 
         AREA |.text|, CODE, READONLY     
         EXPORT main                     
