@@ -44,8 +44,10 @@ Before running the programs and exercises in this repository, ensure that you ha
 
 1. **Clone the Repository**:
    Clone the repository to your local machine using:
+
    ```bash
    git clone https://github.com/void0x11/ARM-Assembly-Fundamentals.git
+   ```
 
 2. **Choose Your Environment**:
 
