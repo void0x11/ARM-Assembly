@@ -1,4 +1,4 @@
-;This is LAB 01 - Program 1
+;This is LAB 01 - Program 1 (Shifting Data)
 
     AREA ShiftingData, CODE, READONLY    ; Declare a code section named "ShiftingData"
     
